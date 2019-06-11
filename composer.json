@@ -1,0 +1,17 @@
+{
+"name": "manimala/multiply",
+"authors": [
+{
+"name": "manimalaA",
+"email": "manimala@codem.com"
+}
+],
+"require": {
+"php": ">=5.5.0"
+},
+"autoload": {
+"psr-0": {
+"Mul": "src/"
+}
+}
+}
